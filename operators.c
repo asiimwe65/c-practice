@@ -21,5 +21,17 @@ int main(){
     // multiple operators in one line
     double n=12/6*3-1;
     printf("\n the 6th result is %.0lf",n);
+    
+    //type conversion
+    //explicit conversion
+    double v=9.999;
+    int s=9;
+    int w =(int)v +s;
+    printf("\nw is %d",w);
+    
+    float y= 7.0;
+    float q=14.0;
+    int f=q/y;
+    printf("\nthe 8th result is %d",f);
     return 0;
 }
