@@ -20,7 +20,7 @@
 int main(){
     int number =0;
     for(int i= 0;i<11;i++){
-        number=number+1;
+       int number=number+1;
         if(number==2){
             continue;
         }
