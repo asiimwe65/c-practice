@@ -1,4 +1,5 @@
-// math.h file helps us to carry out math functions in c programming like sqrt is used for finding the squareroot of a number and cbrt is for cube root
+// math.h file helps us to carry out math functions in c programming like sqrt is used for 
+// finding the squareroot of a number and cbrt is for cube root
 # include <stdio.h>
 # include <math.h>
 int main(){
